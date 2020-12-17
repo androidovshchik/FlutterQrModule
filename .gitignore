@@ -37,6 +37,7 @@ xcuserdata
 Icon?
 .tags*
 
+/build.gradle
 build/
 .android/
 .ios/
