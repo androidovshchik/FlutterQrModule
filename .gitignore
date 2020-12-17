@@ -1,9 +1,11 @@
 .DS_Store
 .dart_tool/
 
+pubspec.lock
 .packages
 .pub/
 
+*.iml
 .idea/
 .vagrant/
 .sconsign.dblite
